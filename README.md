@@ -2,7 +2,7 @@
 
 ## Question
 
-predict the probability that a player will play under the contract in each remaining year of his deal
+Predict the probability that a player will play under the contract in each remaining year of his deal.
 
 ## Data
 
